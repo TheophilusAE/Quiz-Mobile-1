@@ -11,7 +11,9 @@ What I changed
 
 Important: Firebase configuration required
 
-1. Create a Firebase project at https://console.firebase.google.com/ and register an Android app with package name `com.example.myapplication` (or change the package in `AndroidManifest.xml` to match your Firebase app).
+1. Create a Firebase project at https://console.firebase.google.com/ and register an Android app with package name `com.example.myapplication` (or change the package in `AndroidManifest.xml` to match your Firebase app).e: file:///D:/Quizapp/app/src/main/java/com/example/myapplication/ui/TaskListScreen.kt:33:37 Unresolved reference 'compose'.
+Ask Gemini
+
 2. Download the generated `google-services.json` and place it into `app/` (i.e. `d:\Quizapp\app\google-services.json`).
 3. In Android Studio, add the Google Services plugin. Two common options:
 
